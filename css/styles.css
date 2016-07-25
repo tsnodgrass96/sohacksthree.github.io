@@ -70,7 +70,7 @@ h1 {
       overflow: visible;
       width: 100%;
       height: 300px;
-      background: #EFF1EA;
+      background: #33C3F0;
       z-index: 0;
       transform: skewY(-2deg);      
 }
@@ -82,7 +82,7 @@ h1 {
       overflow: visible;
       width: 100%;
       height: 300px;
-      background: #EFF1EA;
+      background: #33C3F0;
       z-index: -1;
       transform: skewY(2deg);      
 }
@@ -91,7 +91,7 @@ h1 {
      content: '';
       position: absolute;
       left: 0;
-      bottom: -100px;
+      bottom: 100px;
       overflow: visible;
       width: 100%;
       height: 300px;
@@ -152,24 +152,23 @@ h1 {
 }
 
 #about {
-    background: #EFF1EA;
-    color: #000;
+    background: #33C3F0;
+    color: #FFF;
     position: relative;
     width: 100%;
     z-index: 4;
     padding-top: 50px;
 }
-
 #info {   
     z-index: 4;
     background: #FFF;
     position: relative;
-    margin-top: 0px;
+    margin-top: 200px;
     width: 100%;
     min-height: 600px;
     color:#000;
     padding-top: 150px;
-    
+    padding-bottom: 200px
 }
 #stats {
     color: #FFF;
@@ -298,9 +297,9 @@ blockquote:before {
 #t1 {
     width: 100%;
     height: 2px;
-    background-color: #000;
+    background-color: #FFF;
     margin-top: 3rem;
-    margin-bottom: 3.5rem;
+    margin-bottom: 4rem;
     
 }
 #t2 {
