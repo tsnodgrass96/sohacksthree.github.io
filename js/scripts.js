@@ -406,7 +406,6 @@ var options1 = {
   scaleStepWidth: 10,
   scaleStartValue: 0
 }
-   new Chart(c1.getContext("2d")).Bar(data1,options1);
 
     var t1 = new TimelineMax();
     t1.from("#t2", .5, {width: 0})
