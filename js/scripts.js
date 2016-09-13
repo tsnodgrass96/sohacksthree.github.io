@@ -380,8 +380,8 @@ else {
 })
 /*DONE*/
  
-var c1 = document.getElementById("c1");
-var parent = document.getElementById("p1");
+var c1 = {};
+var parent = {};
 c1.width = 40;
 c1.height = 40;
 
