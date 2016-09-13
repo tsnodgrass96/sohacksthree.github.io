@@ -5,30 +5,8 @@
         offset: -50,
         
         });
-
-// $(window).resize(function() {
-//     $('#hack').videoBG({
-//	mp4:'js/tunnel_animation.mp4',
-//	ogv:'js/tunnel_animation.ogv',
-//	webm:'js/tunnel_animation.webm',
-//	scale:true,
-//     height: 1000
-//     
-//}).resize();
-// });
     });
 
-
-
-/* 
- * Lazy Line Painter - Path Object 
- * Generated using 'SVG to Lazy Line Converter'
- * 
- * http://lazylinepainter.info 
- * Copyright 2013, Cam O'Connell  
- *  
- */ 
- 
 var pathObj = {
     "test": {
         "strokepath": [
@@ -404,8 +382,8 @@ else {
  
 var c1 = document.getElementById("c1");
 var parent = document.getElementById("p1");
-c1.width = parent.offsetWidth - 40;
-c1.height = parent.offsetHeight - 40;
+c1.width = 40;
+c1.height = 40;
 
 var data1 = {
   labels: ["Web", "Hardware", "Windows App", "Android", "iOS", "Desktop" ],
