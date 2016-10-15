@@ -7,5 +7,9 @@
 *Stuff that needs to be done*
 
 Blog posts
+
 Resources page
+
 Contact page
+
+### Gotta Love The SoHacks Team
