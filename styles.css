@@ -46,7 +46,8 @@ ul > li {
     color: #FFF;
     background-attachment: fixed;
     overflow:hidden;
-    min-height: 800pxa
+    min-height: 800px;
+    z-index: 4;
 }
 
 .fade {
