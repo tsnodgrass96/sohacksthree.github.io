@@ -442,6 +442,18 @@ header {
   width: 100%;
   
 }
+.spon-logo-fit-down {
+  padding-top: 20px;
+  
+  width: 100%;
+  
+}
+.spon-logo-fit-up {
+  
+  padding-bottom: 30px; 
+  width: 100%;
+  
+}
 
 .spon-logo-shrink {
   padding-bottom: 20px; 
