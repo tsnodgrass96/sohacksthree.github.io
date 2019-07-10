@@ -172,7 +172,7 @@ input[type="button"] {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
-  color: #bbb;
+  color: white;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -181,9 +181,9 @@ input[type="button"] {
   text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
-  background-color: transparent;
+  background-color: #14a0e6;
   border-radius: 4px;
-  border: 1px solid #bbb;
+  border: 1px solid white;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
